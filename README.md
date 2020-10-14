@@ -1,10 +1,21 @@
 # Trial recruitment tool
 
+![Logo](https://github.com/spiesruan/TrialRecruitmentTool/Logo.png)
+
 ## Background
 
 In a novel partnership between clinical trial investigators of the South African Medical Research Council and industrial engineers from the Stellenbosch University Health Systems Engineering and Innovation Hub, we developed a Trial Recruitment Tool (TRT). The objective of the tool is to serve as a computerised decisions-support system to aid the planning and management phases of the trial recruitment process. 
 
 The tool was developed for the direct application environment and has since been modified to provide flexibility for possible further application.
+
+## Repo contents
+
+This repo contains four folders as described below:
+
+**0. 0. Packages Installation** - The installations required to run the tool
+**1. Trial Recruitment Tool** - The complete Trial Recruitment Tool
+**2. Planning Tool** - A partial Trial Recruitment Tool with only the planning component
+**3. Example Data** - Example data which may be used to play with the tool functionality
 
 
 ## Planning component

@@ -8,7 +8,7 @@ library(lubridate)
 library(leaflet)
 library(RColorBrewer)
 library(rhandsontable)
-#library(rstudioapi)
+library(rstudioapi)
 
 # Global Variables ---------------------------------
 numSim <- 1000 #Number of simulations to run
@@ -17,6 +17,9 @@ xbar <- 1
 
 
 #Global Functions ---------------------------------
+setwd(dirname(getActiveDocumentContext()$path))
+myWd <- dirname(getActiveDocumentContext()$path)
+
 
 #Simulation model
 runSimulation <- function(param) {
@@ -65,8 +68,11 @@ calc_CI <- function(simVector, Prob) {
 # Header ---------------------------------
 
 header <- dashboardHeader(
-  title = "Trial Recruitment Planning Tool",
-  titleWidth = 700
+  #title = "Trial Recruitment Planning Tool",
+  #titleWidth = 700
+  title = tags$a(href='http://www.sun.ac.za/english',
+                 tags$img(src='logo.png')),
+  titleWidth = 600
   
 )
 

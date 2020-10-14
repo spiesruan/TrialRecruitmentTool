@@ -81,8 +81,10 @@ calc_CI <- function(simVector, Prob) {
   # Header ---------------------------------
 
 header <- dashboardHeader(
-              title = "Trial Recruitment Tool",
-              titleWidth = 700
+  
+  title = tags$a(href='http://www.sun.ac.za/english',
+                 tags$img(src='logo.png')),
+  titleWidth = 600
               
 )
 
