@@ -1,4 +1,4 @@
-# Trial recruitment tool
+# Trial Recruitment Tool
 
 ![Logo](/Logo.png)
 
@@ -8,7 +8,7 @@ In a novel partnership between clinical trial investigators of the South African
 
 The tool was developed for the direct application environment and has since been modified to provide flexibility for possible further application.
 
-## Repo contents
+## Repo Contents
 
 This repo contains four folders as described below:
 
@@ -21,7 +21,7 @@ This repo contains four folders as described below:
 **3. Example Data** - Example data which may be used to play with the tool functionality
 
 
-## Planning component
+## Planning Component
 
 The trial recruitment planning component assists decision-making during the planning phase of a clinical trial and comprises single site and multisite planning.
 
@@ -36,7 +36,7 @@ The multisite planning component allows the expected TRD to be predicted with gr
 The input parameters are used to predict the recruitment duration for each site, and the overall TRD displayed on the dashboard is taken to be the duration from the start of recruitment until the last patient is recruited. This may be derived by considering the predicted completion period of the site that is expected to complete recruitment last, termed the determinative site.
 
 
-## Monitoring component
+## Monitoring Component
 
 The trial recruitment monitoring component uses and analyses the data retrieved from the trial management information system and displays it graphically. Real-world trial data is entered as a comma-separated value file or Excel spreadsheet into the TRT. The data is processed in the background and the three displays, discussed in the following sections, are generated.
 
