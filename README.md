@@ -1,6 +1,6 @@
 # Trial recruitment tool
 
-![Logo](https://github.com/spiesruan/TrialRecruitmentTool/Logo.png)
+![Logo](/Logo.png)
 
 ## Background
 
