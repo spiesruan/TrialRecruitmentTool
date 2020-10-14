@@ -12,9 +12,12 @@ The tool was developed for the direct application environment and has since been
 
 This repo contains four folders as described below:
 
-**0. 0. Packages Installation** - The installations required to run the tool
+**0. Packages Installation** - The installations required to run the tool
+
 **1. Trial Recruitment Tool** - The complete Trial Recruitment Tool
+
 **2. Planning Tool** - A partial Trial Recruitment Tool with only the planning component
+
 **3. Example Data** - Example data which may be used to play with the tool functionality
 
 
