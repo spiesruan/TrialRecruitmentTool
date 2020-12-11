@@ -60,3 +60,6 @@ The site overview component uses the baseline information to plot the different 
 ### Site Specific Component
 
 Sites may be further analysed by selecting the site on the map, graph or from a dropdown list. The information of the selected site consists of the actual site recruitment information and the simulated remaining expected duration based on the actual site data. Different scenarios can be displayed by changing the simulation parameters to see the effect of changes in recruitment rate or the number of outstanding recruitments on the predicted remaining duration.
+
+
+Copyright © 2020 Stellenbosch University and South African Medical Research Council. This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 as published by the Free Software Foundation. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA. For more information please contact the SAMRC at info.ship@mrc.ac.za
